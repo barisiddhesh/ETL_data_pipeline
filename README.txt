@@ -9,4 +9,4 @@ How to execute using Cron:
 2. Later, paste * * * * * /mnt/c/users/'siddhesh bari'/dp/spark-apps/S260100/shell/run.sh "prod"
 3. As per the cron expression, this pipeline runs every minute.
 
-** Via Airflow, pipeline will run everyday at 3pm.
+** Via Airflow, this pipeline will run everyday at 3pm.
